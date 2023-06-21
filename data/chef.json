@@ -1,0 +1,238 @@
+{
+  "chefs": [
+    {
+      "id": "1",
+      "name": "Gordon Ramsay",
+      "picture": "./img/chef/chef01.jpg",
+      "bio": "Gordon Ramsay is a renowned British chef known for his exceptional culinary skills and fiery personality. With over 30 years of experience, he has become a household name in the culinary world.",
+      "country": "United Kingdom",
+      "experience": 30,
+      "num_recipes": 150,
+      "likes": 500000,
+      "famous_recipes": [
+        {
+          "id": "1",
+          "name": "Spaghetti Bolognese",
+          "picture": "./img/recipe/img1.jpg",
+          "cooking_method": "Boil the spaghetti until al dente. In a separate pan, sauté onions, garlic, and ground beef. Add tomato sauce, herbs, and simmer for 30 minutes. Serve the sauce over the cooked spaghetti.",
+          "rating": 4.7,
+          "country": "Italy",
+          "details": "Spaghetti Bolognese is a classic Italian pasta dish that combines al dente spaghetti with a rich and flavorful meat sauce. It is often garnished with grated Parmesan cheese and fresh basil leaves."
+        },
+        {
+          "id": "2",
+          "name": "Chicken Tikka Masala",
+          "picture": "./img/recipe/img2.jpg",
+          "cooking_method": "Marinate chicken in yogurt and spices. Grill the chicken until cooked. In a separate pan, sauté onions, garlic, and spices. Add tomato sauce, cream, and cooked chicken. Simmer for 10 minutes. Serve with naan or rice.",
+          "rating": 4.8,
+          "country": "India",
+          "details": "Chicken Tikka Masala is a popular Indian dish made with marinated grilled chicken pieces in a spiced tomato-based sauce. It is best enjoyed with naan bread or steamed rice."
+        },
+        {
+          "id": "3",
+          "name": "Beef Stir-Fry",
+          "picture": "./img/recipe/img3.jpg",
+          "cooking_method": "Slice beef into thin strips. Stir-fry beef with vegetables in a hot wok or skillet. Add soy sauce, garlic, and ginger for flavor. Cook until beef is cooked through and vegetables are tender-crisp.",
+          "rating": 4.5,
+          "country": "China",
+          "details": "Beef Stir-Fry is a classic Chinese dish that features tender strips of beef cooked with an assortment of colorful vegetables. It is seasoned with soy sauce and aromatic spices."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jamie Oliver",
+      "picture": "./img/chef/chef2.jpg",
+      "bio": "Jamie Oliver is a renowned British chef and television personality. With a career spanning over 20 years, he has revolutionized the way people approach cooking and eating healthy meals.",
+      "country": "United Kingdom",
+      "experience": 20,
+      "num_recipes": 200,
+      "likes": 400000,
+      "famous_recipes": [
+        {
+          "id": "4",
+          "name": "Caprese Salad",
+          "picture": "./img/recipe/img4.jpg",
+          "cooking_method": "Slice tomatoes and mozzarella cheese. Arrange them on a plate, alternating between tomato and cheese slices. Drizzle with olive oil, balsamic vinegar, and sprinkle with salt and pepper. Garnish with fresh basil leaves.",
+          "rating": 4.6,
+          "country": "Italy",
+          "details": "Caprese Salad is a refreshing Italian salad that showcases the vibrant colors of tomatoes, fresh mozzarella cheese, and basil leaves. It is typically seasoned with olive oil, balsamic vinegar, salt, and pepper."
+        },
+        {
+          "id": "5",
+          "name": "Miso Soup",
+          "picture": "./img/recipe/img5.jpg",
+          "cooking_method": "Bring water to a simmer. Dissolve miso paste in a small amount of hot water and add it to the pot. Add tofu, seaweed, and sliced green onions. Simmer for a few minutes and serve hot.",
+          "rating": 4.3,
+          "country": "Japan",
+          "details": "Miso Soup is a traditional Japanese soup made with miso paste, tofu, seaweed, and other ingredients. It is a staple in Japanese cuisine and is often enjoyed as a comforting and nourishing dish."
+        },
+        {
+          "id": "6",
+          "name": "Hamburger",
+          "picture": "./img/recipe/img6.jpg",
+          "cooking_method": "Form ground beef into patties and season with salt and pepper. Grill or cook on a stovetop until desired doneness. Toast buns and assemble the hamburger with lettuce, tomato, onion, and condiments.",
+          "rating": 4.4,
+          "country": "United States",
+          "details": "Hamburger is an iconic American dish consisting of a grilled or fried beef patty served on a bun. It is commonly topped with lettuce, tomato, onion, and condiments like ketchup and mustard."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Julia Child",
+      "picture": "./img/chef/chef3.jpg",
+      "bio": "Julia Child was an American chef and television personality who introduced French cuisine to the American public. Her passion for cooking inspired millions and paved the way for future generations of chefs.",
+      "country": "United States",
+      "experience": 40,
+      "num_recipes": 300,
+      "likes": 350000,
+      "famous_recipes": [
+        {
+          "id": "7",
+          "name": "Sushi Rolls",
+          "picture": "./img/recipe/img7.jpg",
+          "cooking_method": "Prepare sushi rice and season it with vinegar. Place a sheet of nori on a bamboo mat. Spread rice on the nori, leaving a border. Add fillings like raw fish, avocado, and cucumber. Roll tightly using the bamboo mat. Slice into bite-sized pieces.",
+          "rating": 4.9,
+          "country": "Japan",
+          "details": "Sushi Rolls, also known as maki, are a popular Japanese dish consisting of vinegared rice rolled in seaweed (nori) and filled with a variety of ingredients like raw fish, vegetables, or cooked seafood."
+        },
+        {
+          "id": "8",
+          "name": "Pasta Carbonara",
+          "picture": "./img/recipe/img8.jpg",
+          "cooking_method": "Cook pasta until al dente. In a pan, sauté pancetta or bacon until crispy. In a bowl, whisk eggs, grated cheese, and black pepper. Drain cooked pasta and add it to the pan with pancetta. Remove from heat and mix in the egg mixture. Serve immediately.",
+          "rating": 4.7,
+          "country": "Italy",
+          "details": "Pasta Carbonara is a classic Italian pasta dish made with spaghetti or other pasta varieties, pancetta or bacon, eggs, cheese, and black pepper. It is a rich and creamy dish with a distinctive flavor."
+        },
+        {
+          "id": "9",
+          "name": "Goulash",
+          "picture": "./img/recipe/img9.jpg",
+          "cooking_method": "Heat oil in a large pot and sauté onions and garlic. Add beef, paprika, caraway seeds, and beef broth. Simmer until beef is tender. Serve with noodles or bread.",
+          "rating": 4.5,
+          "country": "Hungary",
+          "details": "Goulash is a traditional Hungarian stew made with tender beef, onions, and paprika. It is a hearty and flavorful dish often enjoyed with noodles or bread."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Massimo Bottura",
+      "picture": "./img/chef/chef4.jpg",
+      "bio": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant. He is known for his innovative approach to traditional Italian cuisine.",
+      "country": "Italy",
+      "experience": 25,
+      "num_recipes": 100,
+      "likes": 300000,
+      "famous_recipes": [
+        {
+          "id": "10",
+          "name": "Chicken Caesar Salad",
+          "picture": "./img/recipe/img10.jpg",
+          "cooking_method": "Grill or cook chicken until fully cooked. Cut into slices. In a bowl, combine romaine lettuce, croutons, grated Parmesan cheese, and Caesar dressing. Top with sliced chicken and toss to combine.",
+          "rating": 4.6,
+          "country": "United States",
+          "details": "Chicken Caesar Salad is a popular salad made with crisp romaine lettuce, grilled chicken, croutons, Parmesan cheese, and a creamy Caesar dressing. It is a satisfying and flavorful meal."
+        },
+        {
+          "id": "11",
+          "name": "Pad Thai",
+          "picture": "./img/recipe/img11.jpg",
+          "cooking_method": "Soak rice noodles in hot water until softened. In a wok or skillet, stir-fry shrimp, tofu, and scrambled eggs. Add soaked noodles, bean sprouts, and a sauce made from tamarind, fish sauce, and other seasonings. Cook until heated through. Garnish with peanuts, lime wedges, and cilantro.",
+          "rating": 4.8,
+          "country": "Thailand",
+          "details": "Pad Thai is a famous Thai stir-fried noodle dish made with rice noodles, shrimp, tofu, bean sprouts, and scrambled eggs. It is flavored with a tangy and savory sauce and garnished with peanuts and fresh herbs."
+        },
+        {
+          "id": "12",
+          "name": "Ratatouille",
+          "picture": "./img/recipe/img12.jpg",
+          "cooking_method": "Sauté onions and garlic in olive oil. Add diced eggplant, zucchini, bell peppers, and tomatoes. Season with herbs like thyme and basil. Simmer until the vegetables are tender. Serve as a side dish or with crusty bread.",
+          "rating": 4.4,
+          "country": "France",
+          "details": "Ratatouille is a traditional French vegetable stew made with a medley of eggplant, zucchini, bell peppers, and tomatoes. It is a flavorful and colorful dish that celebrates the abundance of summer produce."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Alice Waters",
+      "picture": "./img/chef/chef5.jpg",
+      "bio": "Alice Waters is an American chef, author, and food activist. She is the founder of Chez Panisse, a renowned farm-to-table restaurant, and a pioneer of the organic food movement.",
+      "country": "United States",
+      "experience": 45,
+      "num_recipes": 250,
+      "likes": 280000,
+      "famous_recipes": [
+        {
+          "id": "13",
+          "name": "Beef Wellington",
+          "picture": "./img/recipe/img13.jpg",
+          "cooking_method": "Season beef tenderloin and sear on all sides. Wrap the beef in puff pastry with a layer of mushroom duxelles and prosciutto. Bake until the pastry is golden and the beef is cooked to desired doneness. Rest before slicing.",
+          "rating": 4.9,
+          "country": "United Kingdom",
+          "details": "Beef Wellington is a classic British dish made with seared beef tenderloin coated in mushroom duxelles, wrapped in puff pastry, and baked until golden. It is a showstopping centerpiece for special occasions."
+        },
+        {
+          "id": "14",
+          "name": "Sushi Sashimi",
+          "picture": "./img/recipe/img14.jpg",
+          "cooking_method": "Slice raw fish, such as tuna, salmon, or yellowtail, into thin pieces. Arrange them on a plate with wasabi and pickled ginger. Serve alongside soy sauce for dipping.",
+          "rating": 4.7,
+          "country": "Japan",
+          "details": "Sushi Sashimi is a Japanese delicacy that showcases raw slices of the highest quality fish. It is often served as a platter with a variety of fish, and each slice is meant to be savored on its own."
+        },
+        {
+          "id": "15",
+          "name": "Beef Stroganoff",
+          "picture": "./img/recipe/img15.jpg",
+          "cooking_method": "Sauté thinly sliced beef in butter. Remove beef from the pan and sauté onions and mushrooms. Return beef to the pan and add sour cream, Dijon mustard, and beef broth. Simmer until the sauce thickens. Serve over egg noodles or rice.",
+          "rating": 4.5,
+          "country": "Russia",
+          "details": "Beef Stroganoff is a Russian dish made with sautéed beef, onions, and mushrooms in a rich and creamy sauce. It is traditionally served over egg noodles or rice."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Heston Blumenthal",
+      "picture": "./img/chef/chef6.jpg",
+      "bio": "Heston Blumenthal is a British chef known for his experimental and scientific approach to cooking. He is the owner of The Fat Duck, a three-Michelin-starred restaurant renowned for its innovative dishes.",
+      "country": "United Kingdom",
+      "experience": 30,
+      "num_recipes": 120,
+      "likes": 380000,
+      "famous_recipes": [
+        {
+          "id": "16",
+          "name": "Tacos al Pastor",
+          "picture": "./img/recipe/img16.jpg",
+          "cooking_method": "Marinate pork in a blend of pineapple, chili, and spices. Grill or roast the marinated pork until cooked and slightly charred. Slice the pork and serve on warm tortillas with diced onions, cilantro, and pineapple chunks.",
+          "rating": 4.8,
+          "country": "Mexico",
+          "details": "Tacos al Pastor is a popular Mexican street food made with marinated and grilled or roasted pork. It is typically served on soft corn tortillas and garnished with onions, cilantro, and pineapple."
+        },
+        {
+          "id": "17",
+          "name": "Chicken Satay",
+          "picture": "./img/recipe/img17.jpg",
+          "cooking_method": "Marinate chicken in a mixture of soy sauce, ginger, garlic, and spices. Skewer the chicken and grill or broil until cooked. Serve with peanut sauce for dipping.",
+          "rating": 4.6,
+          "country": "Indonesia",
+          "details": "Chicken Satay is a popular Indonesian dish consisting of skewered and grilled chicken pieces. It is typically served with a flavorful peanut sauce and enjoyed as an appetizer or main course."
+        },
+        {
+          "id": "18",
+          "name": "Key Lime Pie",
+          "picture": "./img/recipe/img18.jpg",
+          "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+          "rating": 4.7,
+          "country": "United States",
+          "details": "Key Lime Pie is a classic American dessert made with a buttery graham cracker crust and a tangy and creamy filling made from key lime juice, condensed milk, and egg yolks. It is a refreshing and indulgent treat."
+        }
+      ]
+    }
+  ]
+}
