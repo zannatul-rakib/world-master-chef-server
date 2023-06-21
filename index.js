@@ -17,13 +17,21 @@ app.get("/chef", (req, res) => {
 
 app.get("/chef/:id", (req, res) => {
   const id = req.params.id;
-  console.log(id);
-  const result = chef.find((c) => c.id === id);
-  res.send(result);
+  // console.log(id);
+  const chefDetails = chef.find((c) => c.id === id);
+  const famousRecipes = recipes.filter((r) => r.recipe_id === id);
+  res.send({ chefDetails, famousRecipes });
 });
 
 app.get("/recipes", (req, res) => {
   res.send(recipes);
+});
+
+app.get("/recipes/:id", (req, res) => {
+  const id = req.params.id;
+  // console.log(id);
+  const recipe = recipes.find((r) => r.id === id);
+  res.send(recipe);
 });
 
 app.listen(port, () => {
