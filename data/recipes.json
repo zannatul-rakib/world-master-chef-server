@@ -1,0 +1,292 @@
+[
+  {
+    "id": "1",
+    "recipe_id": "1",
+    "name": "Spaghetti Bolognese",
+    "picture": "./img/recipe/img1.jpg",
+    "cooking_method": "Boil the spaghetti until al dente. In a separate pan, sauté onions, garlic, and ground beef. Add tomato sauce, herbs, and simmer for 30 minutes. Serve the sauce over the cooked spaghetti.",
+    "rating": 4.7,
+    "country": "Italy",
+    "details": "Spaghetti Bolognese is a classic Italian pasta dish that combines al dente spaghetti with a rich and flavorful meat sauce. It is often garnished with grated Parmesan cheese and fresh basil leaves."
+  },
+  {
+    "id": "2",
+    "recipe_id": "1",
+    "name": "Chicken Tikka Masala",
+    "picture": "./img/recipe/img2.jpg",
+    "cooking_method": "Marinate chicken in yogurt and spices. Grill the chicken until cooked. In a separate pan, sauté onions, garlic, and spices. Add tomato sauce, cream, and cooked chicken. Simmer for 10 minutes. Serve with naan or rice.",
+    "rating": 4.8,
+    "country": "India",
+    "details": "Chicken Tikka Masala is a popular Indian dish made with marinated grilled chicken pieces in a spiced tomato-based sauce. It is best enjoyed with naan bread or steamed rice."
+  },
+  {
+    "id": "3",
+    "recipe_id": "1",
+    "name": "Beef Stir-Fry",
+    "picture": "./img/recipe/img3.jpg",
+    "cooking_method": "Slice beef into thin strips. Stir-fry beef with vegetables in a hot wok or skillet. Add soy sauce, garlic, and ginger for flavor. Cook until beef is cooked through and vegetables are tender-crisp.",
+    "rating": 4.5,
+    "country": "China",
+    "details": "Beef Stir-Fry is a classic Chinese dish that features tender strips of beef cooked with an assortment of colorful vegetables. It is seasoned with soy sauce and aromatic spices."
+  },
+  {
+    "id": "4",
+    "recipe_id": "2",
+    "name": "Caprese Salad",
+    "picture": "./img/recipe/img4.jpg",
+    "cooking_method": "Slice tomatoes and mozzarella cheese. Arrange them on a plate, alternating between tomato and cheese slices. Drizzle with olive oil, balsamic vinegar, and sprinkle with salt and pepper. Garnish with fresh basil leaves.",
+    "rating": 4.6,
+    "country": "Italy",
+    "details": "Caprese Salad is a refreshing Italian salad that showcases the vibrant colors of tomatoes, fresh mozzarella cheese, and basil leaves. It is typically seasoned with olive oil, balsamic vinegar, salt, and pepper."
+  },
+  {
+    "id": "5",
+    "recipe_id": "2",
+    "name": "Miso Soup",
+    "picture": "./img/recipe/img5.jpg",
+    "cooking_method": "Bring water to a simmer. Dissolve miso paste in a small amount of hot water and add it to the pot. Add tofu, seaweed, and sliced green onions. Simmer for a few minutes and serve hot.",
+    "rating": 4.3,
+    "country": "Japan",
+    "details": "Miso Soup is a traditional Japanese soup made with miso paste, tofu, seaweed, and other ingredients. It is a staple in Japanese cuisine and is often enjoyed as a comforting and nourishing dish."
+  },
+  {
+    "id": "6",
+    "recipe_id": "2",
+    "name": "Hamburger",
+    "picture": "./img/recipe/img6.jpg",
+    "cooking_method": "Form ground beef into patties and season with salt and pepper. Grill or cook on a stovetop until desired doneness. Toast buns and assemble the hamburger with lettuce, tomato, onion, and condiments.",
+    "rating": 4.4,
+    "country": "United States",
+    "details": "Hamburger is an iconic American dish consisting of a grilled or fried beef patty served on a bun. It is commonly topped with lettuce, tomato, onion, and condiments like ketchup and mustard."
+  },
+  {
+    "id": "7",
+    "recipe_id": "3",
+    "name": "Sushi Rolls",
+    "picture": "./img/recipe/img7.jpg",
+    "cooking_method": "Prepare sushi rice and season it with vinegar. Place a sheet of nori on a bamboo mat. Spread rice on the nori, leaving a border. Add fillings like raw fish, avocado, and cucumber. Roll tightly using the bamboo mat. Slice into bite-sized pieces.",
+    "rating": 4.9,
+    "country": "Japan",
+    "details": "Sushi Rolls, also known as maki, are a popular Japanese dish consisting of vinegared rice rolled in seaweed (nori) and filled with a variety of ingredients like raw fish, vegetables, or cooked seafood."
+  },
+  {
+    "id": "8",
+    "recipe_id": "3",
+    "name": "Pasta Carbonara",
+    "picture": "./img/recipe/img8.jpg",
+    "cooking_method": "Cook pasta until al dente. In a pan, sauté pancetta or bacon until crispy. In a bowl, whisk eggs, grated cheese, and black pepper. Drain cooked pasta and add it to the pan with pancetta. Remove from heat and mix in the egg mixture. Serve immediately.",
+    "rating": 4.7,
+    "country": "Italy",
+    "details": "Pasta Carbonara is a classic Italian pasta dish made with spaghetti or other pasta varieties, pancetta or bacon, eggs, cheese, and black pepper. It is a rich and creamy dish with a distinctive flavor."
+  },
+  {
+    "id": "9",
+    "recipe_id": "3",
+    "name": "Goulash",
+    "picture": "./img/recipe/img9.jpg",
+    "cooking_method": "Heat oil in a large pot and sauté onions and garlic. Add beef, paprika, caraway seeds, and beef broth. Simmer until beef is tender. Serve with noodles or bread.",
+    "rating": 4.5,
+    "country": "Hungary",
+    "details": "Goulash is a traditional Hungarian stew made with tender beef, onions, and paprika. It is a hearty and flavorful dish often enjoyed with noodles or bread."
+  },
+  {
+    "id": "10",
+    "recipe_id": "4",
+    "name": "Chicken Caesar Salad",
+    "picture": "./img/recipe/img10.jpg",
+    "cooking_method": "Grill or cook chicken until fully cooked. Cut into slices. In a bowl, combine romaine lettuce, croutons, grated Parmesan cheese, and Caesar dressing. Top with sliced chicken and toss to combine.",
+    "rating": 4.6,
+    "country": "United States",
+    "details": "Chicken Caesar Salad is a popular salad made with crisp romaine lettuce, grilled chicken, croutons, Parmesan cheese, and a creamy Caesar dressing. It is a satisfying and flavorful meal."
+  },
+  {
+    "id": "11",
+    "recipe_id": "4",
+    "name": "Pad Thai",
+    "picture": "./img/recipe/img11.jpg",
+    "cooking_method": "Soak rice noodles in hot water until softened. In a wok or skillet, stir-fry shrimp, tofu, and scrambled eggs. Add soaked noodles, bean sprouts, and a sauce made from tamarind, fish sauce, and other seasonings. Cook until heated through. Garnish with peanuts, lime wedges, and cilantro.",
+    "rating": 4.8,
+    "country": "Thailand",
+    "details": "Pad Thai is a famous Thai stir-fried noodle dish made with rice noodles, shrimp, tofu, bean sprouts, and scrambled eggs. It is flavored with a tangy and savory sauce and garnished with peanuts and fresh herbs."
+  },
+  {
+    "id": "12",
+    "recipe_id": "4",
+    "name": "Ratatouille",
+    "picture": "./img/recipe/img12.jpg",
+    "cooking_method": "Sauté onions and garlic in olive oil. Add diced eggplant, zucchini, bell peppers, and tomatoes. Season with herbs like thyme and basil. Simmer until the vegetables are tender. Serve as a side dish or with crusty bread.",
+    "rating": 4.4,
+    "country": "France",
+    "details": "Ratatouille is a traditional French vegetable stew made with a medley of eggplant, zucchini, bell peppers, and tomatoes. It is a flavorful and colorful dish that celebrates the abundance of summer produce."
+  },
+  {
+    "id": "13",
+    "recipe_id": "5",
+    "name": "Beef Wellington",
+    "picture": "./img/recipe/img13.jpg",
+    "cooking_method": "Season beef tenderloin and sear on all sides. Wrap the beef in puff pastry with a layer of mushroom duxelles and prosciutto. Bake until the pastry is golden and the beef is cooked to desired doneness. Rest before slicing.",
+    "rating": 4.9,
+    "country": "United Kingdom",
+    "details": "Beef Wellington is a classic British dish made with seared beef tenderloin coated in mushroom duxelles, wrapped in puff pastry, and baked until golden. It is a showstopping centerpiece for special occasions."
+  },
+  {
+    "id": "14",
+    "recipe_id": "5",
+    "name": "Sushi Sashimi",
+    "picture": "./img/recipe/img14.jpg",
+    "cooking_method": "Slice raw fish, such as tuna, salmon, or yellowtail, into thin pieces. Arrange them on a plate with wasabi and pickled ginger. Serve alongside soy sauce for dipping.",
+    "rating": 4.7,
+    "country": "Japan",
+    "details": "Sushi Sashimi is a Japanese delicacy that showcases raw slices of the highest quality fish. It is often served as a platter with a variety of fish, and each slice is meant to be savored on its own."
+  },
+  {
+    "id": "15",
+    "recipe_id": "5",
+    "name": "Beef Stroganoff",
+    "picture": "./img/recipe/img15.jpg",
+    "cooking_method": "Sauté thinly sliced beef in butter. Remove beef from the pan and sauté onions and mushrooms. Return beef to the pan and add sour cream, Dijon mustard, and beef broth. Simmer until the sauce thickens. Serve over egg noodles or rice.",
+    "rating": 4.5,
+    "country": "Russia",
+    "details": "Beef Stroganoff is a Russian dish made with sautéed beef, onions, and mushrooms in a rich and creamy sauce. It is traditionally served over egg noodles or rice."
+  },
+  {
+    "id": "16",
+    "recipe_id": "6",
+    "name": "Tacos al Pastor",
+    "picture": "./img/recipe/img16.jpg",
+    "cooking_method": "Marinate pork in a blend of pineapple, chili, and spices. Grill or roast the marinated pork until cooked and slightly charred. Slice the pork and serve on warm tortillas with diced onions, cilantro, and pineapple chunks.",
+    "rating": 4.8,
+    "country": "Mexico",
+    "details": "Tacos al Pastor is a popular Mexican street food made with marinated and grilled or roasted pork. It is typically served on soft corn tortillas and garnished with onions, cilantro, and pineapple."
+  },
+  {
+    "id": "17",
+    "recipe_id": "6",
+    "name": "Chicken Satay",
+    "picture": "./img/recipe/img17.jpg",
+    "cooking_method": "Marinate chicken in a mixture of soy sauce, ginger, garlic, and spices. Skewer the chicken and grill or broil until cooked. Serve with peanut sauce for dipping.",
+    "rating": 4.6,
+    "country": "Indonesia",
+    "details": "Chicken Satay is a popular Indonesian dish consisting of skewered and grilled chicken pieces. It is typically served with a flavorful peanut sauce and enjoyed as an appetizer or main course."
+  },
+  {
+    "id": "18",
+    "recipe_id": "6",
+    "name": "Key Lime Pie",
+    "picture": "./img/recipe/img18.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "United States",
+    "details": "Key Lime Pie is a classic American dessert made with a buttery graham cracker crust and a tangy and creamy filling made from key lime juice, condensed milk, and egg yolks. It is a refreshing and indulgent treat."
+  },
+  {
+    "id": "19",
+    "recipe_id": "6",
+    "name": "Seafood Paella",
+    "picture": "./img/recipe/img19.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "Spanish",
+    "details": "This dish is a Spanish delicacy that is loaded with seafood favorites that include mussels, clams, and shrimp. Infused with a rich saffron scent, this dish is loaded with the flavors of Spanish cuisine that is sure to make your mouth water. To enhance its best flavors, cook it on a grill in a large skillet to distribute the flavors evenly."
+  },
+  {
+    "id": "20",
+    "recipe_id": "2",
+    "name": " Nigiri",
+    "picture": "./img/recipe/img20.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "Japan",
+    "details": "Nigiri is a type of sushi local to Japan, that is made up of an oval shaped mound of rice with a slice of raw fish pressed on top. Various types of fish are used for Nigiri sushi, like tuna, salmon, and albacore. Like other sushi, the process of making the dish requires steady patience and good ingredients. If done well, this dish is a delicacy that is absolutely divine, perfectly balancing the sweet and salty ingredients to create an amazing taste."
+  },
+  {
+    "id": "21",
+    "recipe_id": "5",
+    "name": "Bobotie",
+    "picture": "./img/recipe/img21.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "South African",
+    "details": "Bobotie or bobotjie is a South African classic that is loved by many in South Africa and across the world. It is a deep-dish casserole made from lamb or ground beef, various herbs and spices, curry powder, fruits, and a delectable golden custard. This dish is the epitome of sweet and savory, quickly becoming popular, being served as the main dish for various festivals and celebrations."
+  },
+  {
+    "id": "22",
+    "recipe_id": "3",
+    "name": "Bruschetta",
+    "picture": "./img/recipe/img22.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "Italian",
+    "details": "Bruschetta is an Italian classic that is loved by many all over the world. This appetizer features ripened tomatoes, fresh basil, garlic, and olive oil on toasted Italian or French bread. It is a simple dish that is easy to love, bringing in the freshness of summer with every bite."
+  },
+  {
+    "id": "23",
+    "recipe_id": "4",
+    "name": "Nasi Goreng",
+    "picture": "./img/recipe/img23.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "Indonesia",
+    "details": "Nasi Goreng, the national food of Indonesia, is often described as the Indonesian rendition of fried rice. This fried rice delicacy features a rich, spicy flavor that stands out from other varieties of its kind. It is a simple dish that includes precooked rice that is fried with a dash of oil with chopped shallots, garlic, chili, and ginger. To counteract the heavy savory flavor, sweet soy sauce is added generously, creating a deep flavor that is addictive."
+  },
+  {
+    "id": "24",
+    "recipe_id": "1",
+    "name": "Schnitzel",
+    "picture": "./img/recipe/img24.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "Germany",
+    "details": "Schnitzel is a German favorite that many love for its crunchy and fresh flavor. It features a boneless piece of meat that is pounded down to a thin slice, which is then crumb coated and fried to perfection. Though often served plain with a squeeze of fresh lemon juice, it can also be paired with a creamy sauce, mashed potatoes, or a fresh, herb-y salad."
+  },
+  {
+    "id": "25",
+    "recipe_id": "5",
+    "name": "Butter Chicken",
+    "picture": "./img/recipe/img25.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "India",
+    "details": "When people think of Indian cuisine, the first dish that comes to mind is butter chicken. Known colloquially as murgh or chicken makhani, this is the ultimate Indian dish that will keep your taste buds wanting for more. The dish features grilled seasoned chicken simmered in a spicy and buttery tomato gravy. Often paired with Indian breads like roti or naan, this mouthwatering dish is a great choice for those craving a sweet and spicy delicacy."
+  },
+  {
+    "id": "27",
+    "recipe_id": "2",
+    "name": "Gozleme",
+    "picture": "./img/recipe/img27.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "Turkey",
+    "details": "Gozleme is a Turkish dish that everyone who has tried it adores. Locally, it is a dish that causes long lines at street vendor stalls due to its addictive nature and mouthwatering food combinations. It is a dish that features a golden flatbread stuffed with fillings that range from meats to vegetables, making for a creamy street food dish that tastes amazing."
+  },
+  {
+    "id": "28",
+    "recipe_id": "6",
+    "name": "Banana Bread",
+    "picture": "./img/recipe/img28.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "United States",
+    "details": "Bananas appeared in the US in the 1870s but it took a while for them to appear as ingredients in desserts. Banana bread recipes began to appear in cookbooks across North America when baking powder became available in grocery stores in the 1930s. Some food historians believe banana bread was a byproduct of the Great Depression as resourceful housewives did not wish to throw away overripe bananas. Others believe that banana bread was developed in corporate kitchens to promote flour and baking soda products. Banana bread experienced a resurgence in popularity in 2020 during the COVID-19 pandemic lockdowns."
+  },
+  {
+    "id": "29",
+    "recipe_id": "4",
+    "name": "ROSE TTEOKBOKKI",
+    "picture": "./img/recipe/img29.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.7,
+    "country": "Korea",
+    "details": "BRose Tteokbokki is a dish made of chewy Korean rice cakes simmered in a spicy, sweet, and creamy sauce. This variation of tteokbokki is less fiery than the traditional recipe and offers a creamy, mild flavor that even those who are not accustomed to spicy dishes can enjoy. The original rosé sauce is a blend of tomato sauce and cream, creating a beautiful pinkish-orange hue and it is used as a pasta sauce. Rosé tteokbokki follows the same principle but, instead of using tomato sauce, it uses gochujang based spicy Korean chili sauce. This is why this dish is called “Rose Tteokbokki”."
+  },
+  {
+    "id": "30",
+    "recipe_id": "2",
+    "name": "KOREAN CORN DOG",
+    "picture": "./img/recipe/img30.jpg",
+    "cooking_method": "Mix crushed graham crackers, melted butter, and sugar for the crust. Press into a pie dish and bake until golden. In a separate bowl, combine condensed milk, key lime juice, and egg yolks. Pour the mixture into the baked crust and refrigerate until set. Serve chilled with whipped cream.",
+    "rating": 4.6,
+    "country": "Korea",
+    "details": "Bruschetta is an Italian classic that is loved by many all over the world. This appetizer features ripened tomatoes, fresh basil, garlic, and olive oil on toasted Italian or French bread. It is a simple dish that is easy to love, bringing in the freshness of summer with every bite."
+  }
+]
