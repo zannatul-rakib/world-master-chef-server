@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Gordon Ramsay",
-    "picture": "./img/chef/chef01.jpg",
+    "picture": "https://tinyurl.com/2p8p9mut",
     "bio": "Gordon Ramsay is a renowned British chef known for his exceptional culinary skills and fiery personality. With over 30 years of experience, he has become a household name in the culinary world.",
     "country": "United Kingdom",
     "experience": 30,
@@ -12,7 +12,7 @@
   {
     "id": "2",
     "name": "Jamie Oliver",
-    "picture": "./img/chef/chef2.jpg",
+    "picture": "https://img.jamieoliver.com/home/wp-content/uploads/features-import/2015/09/feature-header8.jpg",
     "bio": "Jamie Oliver is a renowned British chef and television personality. With a career spanning over 20 years, he has revolutionized the way people approach cooking and eating healthy meals.",
     "country": "United Kingdom",
     "experience": 20,
@@ -22,7 +22,7 @@
   {
     "id": "3",
     "name": "Julia Child",
-    "picture": "./img/chef/chef3.jpg",
+    "picture": "https://tinyurl.com/mssyrn63",
     "bio": "Julia Child was an American chef and television personality who introduced French cuisine to the American public. Her passion for cooking inspired millions and paved the way for future generations of chefs.",
     "country": "United States",
     "experience": 40,
@@ -32,7 +32,7 @@
   {
     "id": "4",
     "name": "Massimo Bottura",
-    "picture": "./img/chef/chef4.jpg",
+    "picture": "https://tinyurl.com/bdh3scyn",
     "bio": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant. He is known for his innovative approach to traditional Italian cuisine.",
     "country": "Italy",
     "experience": 25,
@@ -42,7 +42,7 @@
   {
     "id": "5",
     "name": "Alice Waters",
-    "picture": "./img/chef/chef5.jpg",
+    "picture": "https://static01.nyt.com/images/2017/08/23/dining/23WATERS1/23WATERS1-superJumbo.jpg",
     "bio": "Alice Waters is an American chef, author, and food activist. She is the founder of Chez Panisse, a renowned farm-to-table restaurant, and a pioneer of the organic food movement.",
     "country": "United States",
     "experience": 45,
@@ -52,7 +52,7 @@
   {
     "id": "6",
     "name": "Heston Blumenthal",
-    "picture": "./img/chef/chef6.jpg",
+    "picture": "https://tinyurl.com/38w9aw9m",
     "bio": "Heston Blumenthal is a British chef known for his experimental and scientific approach to cooking. He is the owner of The Fat Duck, a three-Michelin-starred restaurant renowned for its innovative dishes.",
     "country": "United Kingdom",
     "experience": 30,
